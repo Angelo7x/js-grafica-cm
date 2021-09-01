@@ -1,0 +1,1 @@
+var numQuadrati = prompt("Inserisci il numero di quadrati da generare");
